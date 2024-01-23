@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4bebeb81.css",
-    "main.js": "/static/js/main.ef617341.js",
-    "static/js/787.baa8d2d8.chunk.js": "/static/js/787.baa8d2d8.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.4bebeb81.css.map": "/static/css/main.4bebeb81.css.map",
-    "main.ef617341.js.map": "/static/js/main.ef617341.js.map",
-    "787.baa8d2d8.chunk.js.map": "/static/js/787.baa8d2d8.chunk.js.map"
+    "main.css": "/study-pads/static/css/main.4bebeb81.css",
+    "main.js": "/study-pads/static/js/main.db64a4bf.js",
+    "static/js/787.baa8d2d8.chunk.js": "/study-pads/static/js/787.baa8d2d8.chunk.js",
+    "service-worker.js": "/study-pads/service-worker.js",
+    "index.html": "/study-pads/index.html",
+    "main.4bebeb81.css.map": "/study-pads/static/css/main.4bebeb81.css.map",
+    "main.db64a4bf.js.map": "/study-pads/static/js/main.db64a4bf.js.map",
+    "787.baa8d2d8.chunk.js.map": "/study-pads/static/js/787.baa8d2d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bebeb81.css",
-    "static/js/main.ef617341.js"
+    "static/js/main.db64a4bf.js"
   ]
 }
