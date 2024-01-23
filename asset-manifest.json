@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testStudyPads/static/css/main.4bebeb81.css",
+    "main.js": "/testStudyPads/static/js/main.9a6a1e5b.js",
+    "static/js/787.baa8d2d8.chunk.js": "/testStudyPads/static/js/787.baa8d2d8.chunk.js",
+    "service-worker.js": "/testStudyPads/service-worker.js",
+    "index.html": "/testStudyPads/index.html",
+    "main.4bebeb81.css.map": "/testStudyPads/static/css/main.4bebeb81.css.map",
+    "main.9a6a1e5b.js.map": "/testStudyPads/static/js/main.9a6a1e5b.js.map",
+    "787.baa8d2d8.chunk.js.map": "/testStudyPads/static/js/787.baa8d2d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bebeb81.css",
+    "static/js/main.9a6a1e5b.js"
+  ]
+}
